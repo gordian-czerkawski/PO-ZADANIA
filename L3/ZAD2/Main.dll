@@ -1,0 +1,4 @@
+Microsoft (R) Visual C# Compiler version 3.6.0-4.20224.5 (ec77c100)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+error CS8782: stdin argument '-' is specified, but input has not been redirected from the standard input stream.
