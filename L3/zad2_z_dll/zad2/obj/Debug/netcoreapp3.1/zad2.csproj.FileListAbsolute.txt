@@ -1,0 +1,9 @@
+/Users/admin/Documents/ZADANIA PO/L3/Z2/zad2/zad2/obj/Debug/netcoreapp3.1/zad2.csprojAssemblyReference.cache
+/Users/admin/Documents/ZADANIA PO/L3/Z2/zad2/zad2/obj/Debug/netcoreapp3.1/zad2.AssemblyInfoInputs.cache
+/Users/admin/Documents/ZADANIA PO/L3/Z2/zad2/zad2/obj/Debug/netcoreapp3.1/zad2.AssemblyInfo.cs
+/Users/admin/Documents/ZADANIA PO/L3/Z2/zad2/zad2/obj/Debug/netcoreapp3.1/zad2.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/ZADANIA PO/L3/Z2/zad2/zad2/bin/Debug/netcoreapp3.1/zad2.deps.json
+/Users/admin/Documents/ZADANIA PO/L3/Z2/zad2/zad2/bin/Debug/netcoreapp3.1/zad2.dll
+/Users/admin/Documents/ZADANIA PO/L3/Z2/zad2/zad2/bin/Debug/netcoreapp3.1/zad2.pdb
+/Users/admin/Documents/ZADANIA PO/L3/Z2/zad2/zad2/obj/Debug/netcoreapp3.1/zad2.dll
+/Users/admin/Documents/ZADANIA PO/L3/Z2/zad2/zad2/obj/Debug/netcoreapp3.1/zad2.pdb

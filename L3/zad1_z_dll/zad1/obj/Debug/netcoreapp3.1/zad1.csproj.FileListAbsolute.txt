@@ -1,0 +1,9 @@
+/Users/admin/Documents/ZADANIA PO/L3/Z1/zad1/zad1/bin/Debug/netcoreapp3.1/zad1.deps.json
+/Users/admin/Documents/ZADANIA PO/L3/Z1/zad1/zad1/bin/Debug/netcoreapp3.1/zad1.dll
+/Users/admin/Documents/ZADANIA PO/L3/Z1/zad1/zad1/bin/Debug/netcoreapp3.1/zad1.pdb
+/Users/admin/Documents/ZADANIA PO/L3/Z1/zad1/zad1/obj/Debug/netcoreapp3.1/zad1.csprojAssemblyReference.cache
+/Users/admin/Documents/ZADANIA PO/L3/Z1/zad1/zad1/obj/Debug/netcoreapp3.1/zad1.AssemblyInfoInputs.cache
+/Users/admin/Documents/ZADANIA PO/L3/Z1/zad1/zad1/obj/Debug/netcoreapp3.1/zad1.AssemblyInfo.cs
+/Users/admin/Documents/ZADANIA PO/L3/Z1/zad1/zad1/obj/Debug/netcoreapp3.1/zad1.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/ZADANIA PO/L3/Z1/zad1/zad1/obj/Debug/netcoreapp3.1/zad1.dll
+/Users/admin/Documents/ZADANIA PO/L3/Z1/zad1/zad1/obj/Debug/netcoreapp3.1/zad1.pdb
